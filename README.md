@@ -1,4 +1,4 @@
-<img src= "https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="centre" style="width: 100%" />  
+<img src= "https://repository-images.githubusercontent.com/280910598/61c0a980-3190-11eb-9851-1ed7f1d55940" align="center"  />  
   
 
 **<div align="center">I'm Yuvraj, React-Native developer | Competitive Programmer 🚀</div>**  
