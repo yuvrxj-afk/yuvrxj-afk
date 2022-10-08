@@ -1,7 +1,7 @@
-<img src= "https://repository-images.githubusercontent.com/280910598/61c0a980-3190-11eb-9851-1ed7f1d55940" align="center"  />  
+<img src= "https://repository-images.githubusercontent.com/280910598/61c0a980-3190-11eb-9851-1ed7f1d55940" align="right" style="width: 100%"  />  
   
 
-**<div align="center">I'm Yuvraj, React-Native developer | Competitive Programmer 🚀</div>**  
+**<div align="left">I'm Yuvraj, React-Native developer | Competitive Programmer 🚀</div>**  
   
 
 - 🔭 I’m currently working on [UBER-Clone](https://github.com/yuvraj-afk/uber_Clone)  
