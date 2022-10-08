@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 60%" />  
   
 
 **<div align="center">I'm Yuvraj, React-Native developer | Competitive Programmer 🚀</div>**  
