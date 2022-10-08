@@ -2,7 +2,7 @@
 
 <br/>
 
-**<div align="center">I'm Yuvraj, React-Native developer | Competitive Programmer 🚀</div>**  
+**<div align="center">I'm Yuvraj, React-Native developer 🚀</div>**  
   
 
 - 🔭 I’m currently working on [UBER-Clone](https://github.com/yuvraj-afk/uber_Clone)  
