@@ -1,4 +1,4 @@
-<img src="https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47" align="left" style="width: 60%" />  
+<img src= "https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="center" style="width: 60%" />  
   
 
 **<div align="center">I'm Yuvraj, React-Native developer | Competitive Programmer 🚀</div>**  
