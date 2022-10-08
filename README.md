@@ -1,4 +1,4 @@
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47)" align="left" style="width: 60%" />  
+<img src="[https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47]" align="left" style="width: 60%" />  
   
 
 **<div align="center">I'm Yuvraj, React-Native developer | Competitive Programmer 🚀</div>**  
