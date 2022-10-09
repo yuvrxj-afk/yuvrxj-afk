@@ -5,7 +5,7 @@
 **<div align="center">I'm Yuvraj, React-Native developer 🚀</div>**  
   
 
-- 🔭 I’m currently working on [UBER-Clone](https://github.com/yuvraj-afk/uber_Clone.git)  
+- 🔭 I’m currently working on [UBER-Clone](https://github.com/yuvrxj-afk/uber_Clone.git)  
   
 
 - 🌱 I’m currently learning Android Development and DSA  
