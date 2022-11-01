@@ -38,11 +38,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrxj-afk&repo=uber_Clone&theme=light" />
 </a>
 
-<div align="center">
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrxj-afk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  
+<div align="center">
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
