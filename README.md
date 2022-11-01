@@ -40,6 +40,9 @@
 
 <div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-afk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
