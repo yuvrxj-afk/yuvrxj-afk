@@ -1,4 +1,4 @@
-### Hey, I'm Yuvraj! 👋
+# Hey, I'm Yuvraj! 👋
 
 - I’m currently solving competitive programming problems.
 - I’m looking to collaborate on freelancing works for App Development.
